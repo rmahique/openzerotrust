@@ -15,3 +15,7 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+# Migration
+
+The actively managed project is at [https://github.com/neuvector/neuvector](https://github.com/neuvector/neuvector). It will be migrated to this repository.
