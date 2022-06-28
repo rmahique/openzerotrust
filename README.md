@@ -2,6 +2,8 @@
 
 Full Lifecycle Container Security Platform delivers the only cloud-native security with uncompromising end-to-end protection from DevOps vulnerability protection to automated run-time security, and featuring a true Layer 7 container firewall.
 
+Documentation for the Open Zero Trust project can be found temporarily [here](https://open-docs.neuvector.com). This will soon be replicating into this repo.
+
 # License
 
 Licensed under the Apache License, Version 2.0 (the "License");
