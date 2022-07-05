@@ -1,6 +1,6 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-green.svg?style=flat)](CONTRIBUTING.md)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-<img align="right" src="https://github.com/openzt/openzerotrust/blob/main/OpenZeroTrustLogo_Green2.png" width="150px" />
+<img align="right" src="images/OpenZeroTrustLogo_Green2.png" width="150px" />
 
 ## Open Zero Trust
 
@@ -35,6 +35,9 @@ In October, 2021, SUSE acquired NeuVector and announced plans to open source the
 
 
 ## Architecture
+
+<img align="center" src="images/ozt_arch.png" />
+
 
 There are four main components:
 
