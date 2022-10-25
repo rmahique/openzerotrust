@@ -70,26 +70,26 @@ Automation:
 Admission control
  - Allow you to define extra criteria to control what gets admited into your Kubernetes cluster
 
-- Network Layer 7 Application protocol
-  - Can detect and verify more than 30 protocols
+Network Layer 7 Application protocol
+ - Can detect and verify more than 30 protocols
 
-- Unique Deep Packet Inspection technology
-  - Monitor and protect 'East-west' and 'North-south' container traffic.
-  - Identify and stop attacks, data leaks or verify the application access to further reduce the attack surface
-  - Web Application Firewall
-  - Data Loss Prevention
+Unique Deep Packet Inspection technology
+ - Monitor and protect 'East-west' and 'North-south' container traffic.
+ - Identify and stop attacks, data leaks or verify the application access to further reduce the attack surface
+ - Web Application Firewall
+ - Data Loss Prevention
 
-- Compliance checks
-  - PCI, GDPR, HIPAA and NIST
-  - Images, Cluster nodes and Containers
+Compliance checks
+ - PCI, GDPR, HIPAA and NIST
+ - Images, Cluster nodes and Containers
 
-- Visualize and act upon live network activity
+Visualize and act upon live network activity
 
-- Send notification and alerts of Security events
+Send notification and alerts of Security events
 
-- Generate Risk reports
+Generate Risk reports
 
-- Advice on how to reduce Risks
+Advice on how to reduce Risks
 
 
 
