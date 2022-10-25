@@ -1,6 +1,6 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-green.svg?style=flat)](CONTRIBUTING.md)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
-<img align="right" src="images/OpenZeroTrustLogo_Green2.png" width="150px" />
+<img align="right" src="images/Openzerotrust-logo.svg" alt="OpenZeroTrust Logowq" width="150px" />
 
 ## Open Zero Trust
 
@@ -31,12 +31,13 @@ NeuVector, previously a closed source product, has been in production at over a 
 A large cloud service provider has stress tested the NeuVector architecture in a 1,000 node cluster successfully. 
 
 Initially focused on run-time security of production workloads, the product has expanded to provide security across the lifecycle of containers, from build-phase scanning to admission controls and production security. The cloud-native zero trust security platform has had several major releases and is currently in its fifth generation, and there are several patents granted in the areas of network security and automated learning in a container environment.
+
 In October, 2021, SUSE acquired NeuVector and announced plans to open source the software.
 
 
 ## Architecture
 
-<img align="center" src="images/ozt_arch.png" />
+<img align="center" src="images/ozt_arch.png" alt="Neuvector_architecture" />
 
 
 There are four main components:
@@ -49,6 +50,46 @@ There are four main components:
 
 
 ## Features
+
+
+Vulnerability Scanning:
+ - Container Platforms
+ - Kubernetes cluster nodes
+ - Registries
+ - Running containers
+
+Zero-Trust security:
+ - Automated policy generation based on application behaviour using ML
+ - Blocking unexpected behaviours at network level (including layer 7 protocols), filesystem and process
+
+
+Automation:
+ - Make your security part of your application CI/CD pipelines using CRDs.
+ - Integrate with other applications and tools using the API.
+
+Admission control
+ - Allow you to define extra criteria to control what gets admited into your Kubernetes cluster
+
+- Network Layer 7 Application protocol
+  - Can detect and verify more than 30 protocols
+
+- Unique Deep Packet Inspection technology
+  - Monitor and protect 'East-west' and 'North-south' container traffic.
+  - Identify and stop attacks, data leaks or verify the application access to further reduce the attack surface
+  - Web Application Firewall
+  - Data Loss Prevention
+
+- Compliance checks
+  - PCI, GDPR, HIPAA and NIST
+  - Images, Cluster nodes and Containers
+
+- Visualize and act upon live network activity
+
+- Send notification and alerts of Security events
+
+- Generate Risk reports
+
+- Advice on how to reduce Risks
 
 
 
